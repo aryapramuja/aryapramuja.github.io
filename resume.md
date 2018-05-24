@@ -34,5 +34,5 @@ Keahlian
 
 Hobi
 ----
-Merakit Gundam supaya bisa menyelamatkan dunia.
+Merakit *Gundam* supaya bisa menyelamatkan dunia.
 
